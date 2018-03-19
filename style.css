@@ -4,6 +4,7 @@
 }
 .first-part{
 	background-image: url("images/pinkcupcakes-blur.png");
+	background-size: cover;
 	height: 100%;
 	padding: 100px;
 }
